@@ -1,0 +1,7 @@
+boxsdk==4.1.0
+requests==2.32.5
+urllib3==1.26.20
+requests-toolbelt==1.0.0
+pandas
+openpyxl
+python-dateutil
