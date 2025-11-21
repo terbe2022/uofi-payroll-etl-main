@@ -595,7 +595,7 @@ df_cpa_fy = df_cpa_fy.loc[:, ~df_cpa_fy.columns.duplicated()]
 #  SAVE CPA OUTPUTS TO BOX
 # ============================================================
 
-date_str = datetime.now().strftime("%m%d%Y")
+date_str = datetime.now().strftime("%m%d%Y_%H%M")
 
 box_folder_id = "351818509913"
 
